@@ -1,0 +1,8 @@
+README.md
+setup.py
+livpylib/__init__.py
+livpylib/liv.py
+livpylib.egg-info/PKG-INFO
+livpylib.egg-info/SOURCES.txt
+livpylib.egg-info/dependency_links.txt
+livpylib.egg-info/top_level.txt
