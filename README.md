@@ -6,10 +6,7 @@ To install LivPyLib, use the following pip command:
 
 ```{python}
 # Latest Version
-pip install https://github.com/liv-kami/LivPyLib/releases/download/v1.0.0/livpylib-1.0.0-py3-none-any.whl
-
-# Previous Versions
-pip install github/link/to/previous/release/whl/file
+pip install livpylib
 ```
 
 
@@ -28,5 +25,6 @@ liv.lib('all')
 
 ## List of included libs:
 Coming Soon!
+
 
 
