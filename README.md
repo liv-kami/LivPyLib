@@ -2,10 +2,17 @@
 Hi there! This library exists for more easily importing other libraries! It's sort of akin to Tidyverse in R, but for python! It contains all of the common libraries I use frequently and may in the future contain some functions I make that I find commonly useful.
 
 ## Installation:
-To install LivPyLib, use the following steps:
+To install LivPyLib, use the following pip command:
 
-1. TO
-2. DO
+```{python}
+# Latest Version
+pip install https://github.com/liv-kami/LivPyLib/releases/download/v1.0.0/livpylib-1.0.0-py3-none-any.whl
+
+# Previous Versions
+pip install github/link/to/previous/release/whl/file
+```
+
+
 
 ## Usage:
 To use LivPyLib, use the following python code:
@@ -21,4 +28,5 @@ liv.lib('all')
 
 ## List of included libs:
 Coming Soon!
+
 
